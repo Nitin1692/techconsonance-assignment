@@ -51,7 +51,7 @@ src/main/resources
 ### Clone Project
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/Nitin1692/techconsonance-assignment.git
 cd notes
 ```
 
